@@ -1,0 +1,12 @@
+{
+  "frontend/src/index.css": "Global styles with luxury-themed OKLCH color system featuring gold, purple, and cream tones for both light and dark modes, plus custom animations for fade-in effects.",
+  "frontend/tailwind.config.js": "Tailwind configuration extended with luxury-themed colors, custom shadow utilities (luxury, luxury-lg), and fade-in animations for elegant transitions.",
+  "frontend/src/App.tsx": "Main application component that composes the complete page structure with Header, Hero, PerfumeGallery, Contact, and Footer sections.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for fetching perfumes, contact information, and social links from the backend with proper error handling.",
+  "frontend/src/components/Header.tsx": "Sticky navigation header with logo and smooth-scroll navigation links to different page sections.",
+  "frontend/src/components/Hero.tsx": "Elegant hero section with background image, brand introduction, and call-to-action buttons for exploring the collection.",
+  "frontend/src/components/PerfumeGallery.tsx": "Gallery section that displays all perfumes in a responsive grid with loading and error states.",
+  "frontend/src/components/PerfumeCard.tsx": "Individual perfume card component with hover effects, image display, fragrance notes badges, and expandable dialog for detailed view.",
+  "frontend/src/components/Contact.tsx": "Contact section displaying contact information and social media links fetched from backend in elegant card layouts.",
+  "frontend/src/components/Footer.tsx": "Footer component with branding and attribution link to caffeine.ai with heart icon."
+}
